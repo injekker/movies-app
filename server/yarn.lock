@@ -74,6 +74,11 @@ bytes@3.1.0:
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.1.0.tgz#f6cf7933a360e0588fa9fde85651cdc7f805d1f6"
   integrity sha512-zauLjrfCG+xvoyaqLoV8bLVXXNGC4JqlxFCutSDWA6fJrTo2ZuvLYTqZ7aHBLZSMOopbzwv8f+wZcVzfVTI2Dg==
 
+ccxt@^1.22.39:
+  version "1.22.39"
+  resolved "https://registry.yarnpkg.com/ccxt/-/ccxt-1.22.39.tgz#ca28a2dafd94089238279c9e5f2f4a041348d065"
+  integrity sha512-Vq4BzYS/FwRudPKQ6BQGU3SVntYv7EAQGT+2guf+e7qm45CJMhdoVwR1z89kl42fbK39XMnl8sUnRCwsKPs38A==
+
 content-disposition@0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/content-disposition/-/content-disposition-0.5.2.tgz#0cf68bb9ddf5f2be7961c3a85178cb85dba78cb4"

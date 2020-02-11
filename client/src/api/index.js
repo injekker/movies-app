@@ -10,12 +10,15 @@ export const updateMovieById = (id, payload) => api.put(`/movie/${id}`, payload)
 export const deleteMovieById = id => api.delete(`/movie/${id}`)
 export const getMovieById = id => api.get(`/movie/${id}`)
 
+export const getAllExts = () => api.get(`/exts`)
+
 const apis = {
     insertMovie,
     getAllMovies,
     updateMovieById,
     deleteMovieById,
     getMovieById,
+    getAllExts
 }
 
 export default apis
